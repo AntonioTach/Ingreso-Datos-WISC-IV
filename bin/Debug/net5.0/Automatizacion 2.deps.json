@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Automatizacion 2/1.0.0": {
+        "runtime": {
+          "Automatizacion 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Automatizacion 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

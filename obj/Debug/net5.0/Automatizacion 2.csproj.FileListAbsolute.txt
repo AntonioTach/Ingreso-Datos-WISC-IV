@@ -1,0 +1,16 @@
+C:\Users\antac\Desktop\Automatizacion 2\obj\Debug\net5.0\Automatizacion 2.csprojAssemblyReference.cache
+C:\Users\antac\Desktop\Automatizacion 2\obj\Debug\net5.0\Automatizacion 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antac\Desktop\Automatizacion 2\obj\Debug\net5.0\Automatizacion 2.AssemblyInfoInputs.cache
+C:\Users\antac\Desktop\Automatizacion 2\obj\Debug\net5.0\Automatizacion 2.AssemblyInfo.cs
+C:\Users\antac\Desktop\Automatizacion 2\obj\Debug\net5.0\Automatizacion 2.csproj.CoreCompileInputs.cache
+C:\Users\antac\Desktop\Automatizacion 2\bin\Debug\net5.0\Automatizacion 2.exe
+C:\Users\antac\Desktop\Automatizacion 2\bin\Debug\net5.0\Automatizacion 2.deps.json
+C:\Users\antac\Desktop\Automatizacion 2\bin\Debug\net5.0\Automatizacion 2.runtimeconfig.json
+C:\Users\antac\Desktop\Automatizacion 2\bin\Debug\net5.0\Automatizacion 2.runtimeconfig.dev.json
+C:\Users\antac\Desktop\Automatizacion 2\bin\Debug\net5.0\Automatizacion 2.dll
+C:\Users\antac\Desktop\Automatizacion 2\bin\Debug\net5.0\ref\Automatizacion 2.dll
+C:\Users\antac\Desktop\Automatizacion 2\bin\Debug\net5.0\Automatizacion 2.pdb
+C:\Users\antac\Desktop\Automatizacion 2\obj\Debug\net5.0\Automatizacion 2.dll
+C:\Users\antac\Desktop\Automatizacion 2\obj\Debug\net5.0\ref\Automatizacion 2.dll
+C:\Users\antac\Desktop\Automatizacion 2\obj\Debug\net5.0\Automatizacion 2.pdb
+C:\Users\antac\Desktop\Automatizacion 2\obj\Debug\net5.0\Automatizacion 2.genruntimeconfig.cache
